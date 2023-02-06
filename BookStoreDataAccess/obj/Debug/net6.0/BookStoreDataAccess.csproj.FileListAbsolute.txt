@@ -1,0 +1,17 @@
+D:\V.StudioCode\BookStoreMVC\BookStoreDataAccess\bin\Debug\net6.0\BookStoreDataAccess.deps.json
+D:\V.StudioCode\BookStoreMVC\BookStoreDataAccess\bin\Debug\net6.0\BookStoreDataAccess.runtimeconfig.json
+D:\V.StudioCode\BookStoreMVC\BookStoreDataAccess\bin\Debug\net6.0\BookStoreDataAccess.dll
+D:\V.StudioCode\BookStoreMVC\BookStoreDataAccess\bin\Debug\net6.0\BookStoreDataAccess.pdb
+D:\V.StudioCode\BookStoreMVC\BookStoreDataAccess\bin\Debug\net6.0\BookStoreModels.dll
+D:\V.StudioCode\BookStoreMVC\BookStoreDataAccess\bin\Debug\net6.0\BookStoreModels.pdb
+D:\V.StudioCode\BookStoreMVC\BookStoreDataAccess\obj\Debug\net6.0\BookStoreDataAccess.csproj.AssemblyReference.cache
+D:\V.StudioCode\BookStoreMVC\BookStoreDataAccess\obj\Debug\net6.0\BookStoreDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\V.StudioCode\BookStoreMVC\BookStoreDataAccess\obj\Debug\net6.0\BookStoreDataAccess.AssemblyInfoInputs.cache
+D:\V.StudioCode\BookStoreMVC\BookStoreDataAccess\obj\Debug\net6.0\BookStoreDataAccess.AssemblyInfo.cs
+D:\V.StudioCode\BookStoreMVC\BookStoreDataAccess\obj\Debug\net6.0\BookStoreDataAccess.csproj.CoreCompileInputs.cache
+D:\V.StudioCode\BookStoreMVC\BookStoreDataAccess\obj\Debug\net6.0\BookStoreDataAccess.csproj.CopyComplete
+D:\V.StudioCode\BookStoreMVC\BookStoreDataAccess\obj\Debug\net6.0\BookStoreDataAccess.dll
+D:\V.StudioCode\BookStoreMVC\BookStoreDataAccess\obj\Debug\net6.0\refint\BookStoreDataAccess.dll
+D:\V.StudioCode\BookStoreMVC\BookStoreDataAccess\obj\Debug\net6.0\BookStoreDataAccess.pdb
+D:\V.StudioCode\BookStoreMVC\BookStoreDataAccess\obj\Debug\net6.0\BookStoreDataAccess.genruntimeconfig.cache
+D:\V.StudioCode\BookStoreMVC\BookStoreDataAccess\obj\Debug\net6.0\ref\BookStoreDataAccess.dll
